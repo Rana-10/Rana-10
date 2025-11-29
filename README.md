@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Muhammad Azmat 👋</h1>
-<h3 align="center">Data Science Undergraduate | AI & ML Enthusiast | Full-Stack Learner | Problem Solver</h3>
+<h1 align="center">Muhammad Azmat</h1>
+<h3 align="center">Data Science Undergraduate | AI & ML Enthusiast | Full-Stack Learner</h3>
 
 ---
 

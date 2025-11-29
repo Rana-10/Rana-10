@@ -7,7 +7,7 @@
 - 🎓 **3rd-year Data Science student at FAST NUCES Islamabad**  
 - 🤖 Passionate about **AI, Machine Learning, Data Analysis & Automation**  
 - 🧪 Love building **real-world projects** using data & algorithms  
-- ⚡ I do QA testing, marketing, and dev work for startups  
+- ⚡ I have done QA testing, and marketing as well
 - 🚗 I also do sim drifting as my side main hobby
 
 ---
@@ -29,7 +29,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F9A?style=for-the-badge&logo=nltk&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-4E8B57?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 

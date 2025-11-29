@@ -8,7 +8,7 @@
 - 🤖 Passionate about **AI, Machine Learning, Data Analysis & Automation**  
 - 🧪 Love building **real-world projects** using data & algorithms  
 - ⚡ I do QA testing, marketing, and dev work for startups  
-- 🚗 Car enthusiast & sim drifting hobbyist  
+- 🚗 I also add sim drifting as my side main hobby
 
 ---
 

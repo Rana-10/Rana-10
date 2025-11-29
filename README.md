@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Azmat 👋</h1>
 <h3 align="center">Data Science Undergraduate | AI & ML Enthusiast | Full-Stack Learner | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rana-10&label=Profile%20Views&color=0e75b6&style=flat" alt="Rana-10" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -12,7 +8,7 @@
 - 🤖 Passionate about **AI, Machine Learning, Data Analysis & Automation**  
 - 🧪 Love building **real-world projects** using data & algorithms  
 - ⚡ I do QA testing, marketing, and dev work for startups  
-- 🚗 Car enthusiast & sim racing hobbyist  
+- 🚗 Car enthusiast & sim drifting hobbyist  
 
 ---
 

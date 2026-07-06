@@ -18,7 +18,7 @@ I'm a data science undergraduate focused on turning raw, real-world data into wo
 ## My Tools
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,pycharm,vscode,git,github,ubuntu,r,mysql,supabase,vercel)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau"/>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 

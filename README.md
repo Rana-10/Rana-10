@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Azmat</h1>
 
 
-I'm a data science undergraduate focused on turning messy, real-world data into working AI systems. My work spans classical machine learning, deep learning, and full-stack AI product development — from adversarial robustness research on facial recognition models to building production-ready apps with LLMs. I'm particularly drawn to the intersection of rigorous ML research and shipped, usable products, with a growing focus on AI-powered healthcare R&D
+I'm a data science undergraduate focused on turning raw, real-world data into working AI systems. My work spans classical machine learning, deep learning, and full-stack AI product development. From adversarial robustness research on facial recognition models to building production-ready apps with LLMs. I'm particularly drawn to the intersection of rigorous ML research and shipped, usable products, with a growing focus on AI-powered healthcare R&D
 
 ## Skills
 
@@ -18,6 +18,8 @@ I'm a data science undergraduate focused on turning messy, real-world data into 
 ## My Tools
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,pycharm,vscode,git,github,ubuntu,r,mysql,supabase,vercel)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau"/>
+
 
 
 
@@ -29,5 +31,3 @@ I'm a data science undergraduate focused on turning messy, real-world data into 
 <a href="mailto:muhammadazmat018@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
-
----

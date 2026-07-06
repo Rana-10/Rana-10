@@ -25,8 +25,8 @@ I'm a data science undergraduate focused on turning raw, real-world data into wo
 ## Connect
 
 <a href="https://www.linkedin.com/in/muhammad-azmat-75825724a" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn style="border: none;"/>
 </a>
 <a href="mailto:muhammadazmat018@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail style="border: none;"/>
 </a>

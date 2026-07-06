@@ -20,7 +20,6 @@ I'm a data science undergraduate focused on turning messy, real-world data into 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,pycharm,vscode,git,github,ubuntu,r,mysql,supabase,vercel)](https://skillicons.dev)
 
 
----
 
 ### Connect
 <a href="https://www.linkedin.com/in/muhammad-azmat-75825724a" target="_blank">
@@ -30,5 +29,4 @@ I'm a data science undergraduate focused on turning messy, real-world data into 
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 
----
 

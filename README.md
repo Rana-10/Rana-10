@@ -1,5 +1,4 @@
 <h1 align="center">Muhammad Azmat</h1>
-<h3 align="center">Data Scientist | AI/ML Engineer | Full-Stack Builder</h3>
 
 ---
 

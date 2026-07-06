@@ -6,7 +6,7 @@ I'm a data science undergraduate focused on turning raw, real-world data into wo
 ## Skills
 
 * **Relevant Coursework:** Deep Learning, Natural Language Processing, Data Mining, Data Warehousing, Data Analysis & Visualization, Parallel & Distributed Computing, Artificial Intelligence, Intro to Data Science.
-* **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), C++, R, SQL, JavaScript.
+* **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), C++, R, SQL (PostgreSQL, MySQL), JavaScript.
 * **Machine Learning & AI:** Deep Learning (CNNs, RNNs, LSTMs, Transformers), Adversarial ML (FGSM, PGD), Continual Fine-Tuning (LoRA, sparse LLMs), NLP, Multi-label Classification, Model Diagnostics.
 * **Full-Stack & AI Products:** Next.js, Supabase, OpenAI API, Flask, LLM-powered application development.
 * **Data Engineering & Big Data:** Data Cleaning, ETL Pipelines (Bronze-Silver-Gold with PySpark & Delta Lake), Missing Data Imputation, Outlier Detection, Feature Engineering.

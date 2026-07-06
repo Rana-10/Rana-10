@@ -1,6 +1,5 @@
 <h1 align="center">Muhammad Azmat</h1>
 
----
 
 I'm a data science undergraduate focused on turning messy, real-world data into working AI systems. My work spans classical machine learning, deep learning, and full-stack AI product development — from adversarial robustness research on facial recognition models to building production-ready apps with LLMs. I'm particularly drawn to the intersection of rigorous ML research and shipped, usable products, with a growing focus on AI-powered healthcare R&D
 
@@ -15,7 +14,6 @@ I'm a data science undergraduate focused on turning messy, real-world data into 
 * **Interests:** AI-Powered Healthcare, Research (Adversarial Robustness, Continual Learning), Performance Car Engineering, Sim Drifting.
 * **Languages:** English (Fluent), Urdu (Native), German (Basic)
 
----
 
 ### My Tools
 

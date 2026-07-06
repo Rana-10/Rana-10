@@ -3,7 +3,7 @@
 
 ---
 
-I'm a data science undergraduate focused on turning messy, real-world data into working AI systems. My work spans classical machine learning, deep learning, and full-stack AI product development — from adversarial robustness research on facial recognition models to building production-ready apps with LLMs. I'm particularly drawn to the intersection of rigorous ML research and shipped, usable products, with a growing focus on AI-powered healthcare applications.
+I'm a data science undergraduate focused on turning messy, real-world data into working AI systems. My work spans classical machine learning, deep learning, and full-stack AI product development — from adversarial robustness research on facial recognition models to building production-ready apps with LLMs. I'm particularly drawn to the intersection of rigorous ML research and shipped, usable products, with a growing focus on AI-powered healthcare R&D
 
 ## Skills
 
@@ -13,9 +13,8 @@ I'm a data science undergraduate focused on turning messy, real-world data into 
 * **Full-Stack & AI Products:** Next.js, Supabase, OpenAI API, Flask, LLM-powered application development.
 * **Data Engineering & Big Data:** Data Cleaning, ETL Pipelines (Bronze-Silver-Gold with PySpark & Delta Lake), Missing Data Imputation, Outlier Detection, Feature Engineering.
 * **Visualisation & Analytics:** Exploratory Data Analysis, Correlation Analysis, Data Storytelling.
-* **Systems & Tools:** Git, GitHub, VS Code, PyCharm, Linux, Vercel, Poetry.
-* **Interests:** AI-Powered Healthcare, Research (Adversarial Robustness, Continual Learning), Performance Car Engineering (Turbocharged Systems, WRX/Evo X/GTI/Supra Platforms), Sim Drifting.
-* **Languages:** English (Fluent), Urdu (Native).
+* **Interests:** AI-Powered Healthcare, Research (Adversarial Robustness, Continual Learning), Performance Car Engineering, Sim Drifting.
+* **Languages:** English (Fluent), Urdu (Native), German (Basic)
 
 ---
 
@@ -27,7 +26,12 @@ I'm a data science undergraduate focused on turning messy, real-world data into 
 ---
 
 ### Connect
-[![My Socials](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
+<a href="https://www.linkedin.com/in/muhammad-azmat-75825724a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:muhammadazmat018@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
 
 ---
 

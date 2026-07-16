@@ -17,7 +17,7 @@ I'm a data science undergraduate focused on turning raw, real-world data into wo
 
 ## My Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,pycharm,vscode,git,github,ubuntu,r,mysql,supabase,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,postman,js,pycharm,vscode,git,github,ubuntu,r,mysql,supabase,vercel)](https://skillicons.dev)
 
 
 
